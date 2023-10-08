@@ -13,8 +13,8 @@ impl Default for TemplateApp {
     fn default() -> Self {
         Self {
             // Example stuff:
-            label: "Hello World!".to_owned(),
-            value: 2.7,
+            label: "Goodbye World!".to_owned(),
+            value: 2.3,
         }
     }
 }
